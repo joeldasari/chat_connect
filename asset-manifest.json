@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chat_connect/static/css/main.de60490b.css",
+    "main.js": "/chat_connect/static/js/main.af5a1d14.js",
+    "static/media/signin.png": "/chat_connect/static/media/signin.9900628166b5ce867e32.png",
+    "index.html": "/chat_connect/index.html",
+    "main.de60490b.css.map": "/chat_connect/static/css/main.de60490b.css.map",
+    "main.af5a1d14.js.map": "/chat_connect/static/js/main.af5a1d14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de60490b.css",
+    "static/js/main.af5a1d14.js"
+  ]
+}
